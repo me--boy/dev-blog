@@ -218,3 +218,4 @@
     
     return textSize;
 	}
+#__weak typeof(self) weakSelf = self;
